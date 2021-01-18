@@ -9,11 +9,19 @@
 중고 마켓이라는 Fleamarket과 온전함, 풍부함의 뜻을 가지고 있는 Full을 합쳐서 만든 이름입니다. 
 
 ### FleaFully를 통해 무엇을 할 수 있나요?
+
+<img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" width="400"></img>
+
   - 판매자들은 현재 팔려는 물건들의 시장 매물수와 판매 가격 측정
   
   - 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
   
+<img src="https://user-images.githubusercontent.com/71831714/104889993-4ca71080-59b2-11eb-99d1-5672c1132a53.png" width="300"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104890215-998ae700-59b2-11eb-9d56-f50372b9d161.png" width="300"></img>
+  
   - 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
+
+<img src="https://user-images.githubusercontent.com/71831714/104890339-c9d28580-59b2-11eb-95bb-22548afb4dbc.png"></img>
   
   - 챗봇을 통한 매물 추천과 필터링 기능 (슬랙 & 카카오톡)
   
@@ -21,6 +29,8 @@
 <img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png" width="400"></img>
 
   - 인기 카테고리 품목들의 가격 비교
+  
+<img src="https://user-images.githubusercontent.com/71831714/104890525-0aca9a00-59b3-11eb-8a4e-8e6c0214a972.png" width="400"></img>
 
 ## 2. 시스템 구조
 ![fleafully-draw_yena](https://user-images.githubusercontent.com/71831714/101885533-97788000-3bdd-11eb-94b8-5db03d840607.png)
