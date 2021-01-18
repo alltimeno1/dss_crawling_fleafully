@@ -10,21 +10,21 @@
 
 ### FleaFully를 통해 무엇을 할 수 있나요?
 
-1. 인기 카테고리 품목들의 가격 비교
+#### 1. 인기 카테고리 품목들의 가격 비교
 
 <img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" width="400"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104890525-0aca9a00-59b3-11eb-8a4e-8e6c0214a972.png" width="400"></img>
 ------  
-2. 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
+#### 2. 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
   
 <img src="https://user-images.githubusercontent.com/71831714/104889993-4ca71080-59b2-11eb-99d1-5672c1132a53.png" width="300"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104890215-998ae700-59b2-11eb-9d56-f50372b9d161.png" width="300"></img>
 ------  
-3. 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
+#### 3. 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
 
 <img src="https://user-images.githubusercontent.com/71831714/104890339-c9d28580-59b2-11eb-95bb-22548afb4dbc.png"></img>
 ------  
-4. 챗봇을 통한 매물 추천과 필터링 기능 (슬랙 & 카카오톡)
+#### 4. 챗봇을 통한 매물 추천과 필터링 기능 (슬랙 & 카카오톡)
   
 <img src="https://user-images.githubusercontent.com/71831714/104883632-67748780-59a8-11eb-95b3-7504f07c4eb5.png" width="500"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png" width="400"></img>
