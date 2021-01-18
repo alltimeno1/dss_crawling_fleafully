@@ -15,9 +15,10 @@
   
   - 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
   
-  - 슬랙 챗봇을 통한 매물 추천과 필터링 기능
+  - 챗봇을 통한 매물 추천과 필터링 기능 (슬랙 & 카카오톡)
   
-<img src="https://user-images.githubusercontent.com/71831714/104880640-465d6800-59a3-11eb-94dc-4c06887d3920.png" height="800"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104882382-5c205c80-59a6-11eb-81f7-52acb3086b97.png></img>
+<img src="https://user-images.githubusercontent.com/71831714/104882399-63e00100-59a6-11eb-99a9-fc846de207f7.png"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png"></img>
 
   - 인기 카테고리 품목들의 가격 비교
