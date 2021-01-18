@@ -6,7 +6,7 @@
 ### 기획 의도, 그리고 우리의 목표 
 해를 거듭할수록 증가하는 중고마켓 시장의 데이터를 유저들이 하나의 플랫폼에서 좀 더 편하게 사용할수 있음을 목표로 함
 
-### 이름은 왜 FleaFully 인가요
+### 이름은 왜 FleaFully 인가요?
 중고 마켓이라는 Fleamarket과 온전함, 풍부함의 뜻을 가지고 있는 Full을 합쳐서 만든 이름입니다. 
 
 ### FleaFully를 통해 무엇을 할 수 있나요?
@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/71831714/104889993-4ca71080-59b2-11eb-99d1-5672c1132a53.png" width="300"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104890215-998ae700-59b2-11eb-9d56-f50372b9d161.png" width="300"></img>
 ------  
-#### 3. 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
+#### 3. 원하는 품목의 특정 가격 매물 정보를 메일로 발송
 
 <img src="https://user-images.githubusercontent.com/71831714/104890339-c9d28580-59b2-11eb-95bb-22548afb4dbc.png"></img>
 ------  
