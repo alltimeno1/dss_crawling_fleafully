@@ -10,9 +10,9 @@
 
 ### FleaFully를 통해 무엇을 할 수 있나요?
 
-<img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" width="400"></img>
-
 1. 판매자들은 현재 팔려는 물건들의 시장 매물수와 판매 가격 측정
+
+<img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" width="400"></img>
   
 2. 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
   
