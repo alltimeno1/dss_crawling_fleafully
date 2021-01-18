@@ -4,38 +4,36 @@
 ## 1. 소개 
 ### 기획 의도, 그리고 우리의 목표 
 해를 거듭할수록 증가하는 중고마켓 시장의 데이터를 유저들이 하나의 플랫폼에서 좀 더 편하게 사용할수 있음을 목표로 함
-### FleaFully를 통해 무엇을 할 수 있나요?
-  - 판매자들은 현재 팔려는 물건들의 시장 매물수와 판매 가격 측정
-  - 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
-  - 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
-  - 챗봇을 통해 매물 추천과 필터링 기능
-  - 인기 카테고리 품목들의 가격 비교
+
 ### 이름은 왜 FleaFully 인가요
 중고 마켓이라는 Fleamarket과 온전함, 풍부함의 뜻을 가지고 있는 Full을 합쳐서 만든 이름입니다. 
+
+### FleaFully를 통해 무엇을 할 수 있나요?
+  - 판매자들은 현재 팔려는 물건들의 시장 매물수와 판매 가격 측정
+  
+  - 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
+  
+  - 원하는 품목의 가격을 입력하면 매물이 올라왔을때 메일로 notification 주는 기능
+  
+  - 슬랙 챗봇을 통한 매물 추천과 필터링 기능
+  
+<img src="https://user-images.githubusercontent.com/71831714/104880640-465d6800-59a3-11eb-94dc-4c06887d3920.png" height="800"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png"></img>
+
+  - 인기 카테고리 품목들의 가격 비교
+
 ## 2. 시스템 구조
 ![fleafully-draw_yena](https://user-images.githubusercontent.com/71831714/101885533-97788000-3bdd-11eb-94b8-5db03d840607.png)
-## 3. Contribute 
+
+## 3. 구성 요소 
 ### Details 
 #### Getting Started
 #### Prerequisites
 - python3, R
 - Mongodb, Mysql
 - kakao & slack api
-#### Dataset 
-#### 코드 설명 1 
-- fleafully.py
-  - flask 프레임워크를 활용한 웹 서버 실행 모듈 
-  - AWS 서버를 통해 WAS 구현 
-  - mongoDB 연결을 통해 특정 조건의 데이터를 불러옴 
-  - mysql 연결을 통해 프론트에서 user 입력값을 DB에 저장 
-- bunjang_crawl_all.py 
-  - json을 활용한 번개장터 크롤링 모듈
-  - 크롤링 후 mongo DB 데이터 입력 
-- template > mongo.html category.html kakaomap.html mail.html main.html
-  - 프론트엔드 구현을 위한 html 
-- mongo.html 
-  - flask 모듈에서 연결된 mongo DB의 데이터를 jinja2를 활용한 프론트 표현 
-#### 코드 설명 2 
+
+#### 코드 설명 - 성준
 - run.py
   - jungonara.py를 12개 카테고리에 대해 실행  후 mongo.py 실행
 - jungonara.py
@@ -54,7 +52,22 @@
   - 슬랙 챗봇 실행
 - fleafully.py
   - 챗봇 기능 구현
-#### 코드 설명 3
+  
+#### 코드 설명 - 예나 
+- fleafully.py
+  - flask 프레임워크를 활용한 웹 서버 실행 모듈 
+  - AWS 서버를 통해 WAS 구현 
+  - mongoDB 연결을 통해 특정 조건의 데이터를 불러옴 
+  - mysql 연결을 통해 프론트에서 user 입력값을 DB에 저장 
+- bunjang_crawl_all.py 
+  - json을 활용한 번개장터 크롤링 모듈
+  - 크롤링 후 mongo DB 데이터 입력 
+- template > mongo.html category.html kakaomap.html mail.html main.html
+  - 프론트엔드 구현을 위한 html 
+- mongo.html 
+  - flask 모듈에서 연결된 mongo DB의 데이터를 jinja2를 활용한 프론트 표현 
+  
+#### 코드 설명 - 하윤
 - scrapy.py
   - 당근마켓에서 원하는 키워드 명으로 데이터를 crawling
 - pipeline.py
@@ -79,9 +92,7 @@
   - Scrapy Framework를 통해 당근마켓 크롤링, Kakao local api 통해 거래주소에서 lat, lon값 추가, Rscript의 jitter함수를 통해 중복되는 좌표 변경
   - Node.js를 통해 mongodb에서 collection 데이터 import후 kakao map api통해 지도 구현
   - GitHub: https://github.com/hayoon
-- 이화진 
-  - 기여기여기여기여
-  - GitHub: 
+
 ## 5. 그리고 
 #### 참고사이트 
 - 중고나라 : https://www.joongna.com/
@@ -89,5 +100,5 @@
 - 번개장터 : https://m.bunjang.co.kr/
 - 헬로마켓 : https://www.hellomarket.com/
 #### Q&A
-- Contact us :  
+- Contact us :  cuhz108@gmail.com
 ###### 본 프로젝트는 패스트캠퍼스 데이터사이언스 취업스쿨 15th 크롤링 프로젝트로 진행되었습니다.
