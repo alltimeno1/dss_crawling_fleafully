@@ -10,9 +10,10 @@
 
 ### FleaFully를 통해 무엇을 할 수 있나요?
 
-1. 판매자들은 현재 팔려는 물건들의 시장 매물수와 판매 가격 측정
+1. 인기 카테고리 품목들의 가격 비교
 
 <img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" width="400"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104890525-0aca9a00-59b3-11eb-8a4e-8e6c0214a972.png" width="400"></img>
 ------  
 2. 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
   
@@ -28,10 +29,7 @@
 <img src="https://user-images.githubusercontent.com/71831714/104883632-67748780-59a8-11eb-95b3-7504f07c4eb5.png" width="500"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png" width="400"></img>
 ------
-5. 인기 카테고리 품목들의 가격 비교
-  
-<img src="https://user-images.githubusercontent.com/71831714/104890525-0aca9a00-59b3-11eb-8a4e-8e6c0214a972.png" width="400"></img>
-------
+
 ## 2. 시스템 구조
 ![fleafully-draw_yena](https://user-images.githubusercontent.com/71831714/101885533-97788000-3bdd-11eb-94b8-5db03d840607.png)
 
