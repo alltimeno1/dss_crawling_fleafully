@@ -17,7 +17,7 @@
   
   - 챗봇을 통한 매물 추천과 필터링 기능 (슬랙 & 카카오톡)
   
-<img src="https://user-images.githubusercontent.com/71831714/104883632-67748780-59a8-11eb-95b3-7504f07c4eb5.png" width="400"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104883632-67748780-59a8-11eb-95b3-7504f07c4eb5.png" width="500"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png" width="400"></img>
 
   - 인기 카테고리 품목들의 가격 비교
