@@ -17,7 +17,7 @@
   
   - 챗봇을 통한 매물 추천과 필터링 기능 (슬랙 & 카카오톡)
   
-<img src="https://user-images.githubusercontent.com/71831714/104882382-5c205c80-59a6-11eb-81f7-52acb3086b97.png></img>
+<img src="https://user-images.githubusercontent.com/71831714/104882382-5c205c80-59a6-11eb-81f7-52acb3086b97.png"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104882399-63e00100-59a6-11eb-99a9-fc846de207f7.png"></img>
 <img src="https://user-images.githubusercontent.com/71831714/104881288-62153e00-59a4-11eb-9d20-99d131959fea.png"></img>
 
