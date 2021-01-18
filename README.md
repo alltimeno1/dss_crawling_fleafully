@@ -1,5 +1,6 @@
-![img](https://user-images.githubusercontent.com/72847093/101735679-91af6b80-3b05-11eb-972b-97d421deff0e.PNG)
 # FleaFully, 중고마켓 서비스 개선으로 보다 풍요로운 삶을 제공하다
+
+![img](https://user-images.githubusercontent.com/72847093/101735679-91af6b80-3b05-11eb-972b-97d421deff0e.PNG)
 
 ## 1. 소개 
 ### 기획 의도, 그리고 우리의 목표 
