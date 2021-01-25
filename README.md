@@ -13,8 +13,9 @@
 
 #### 1. 인기 카테고리 품목들의 가격 비교
 
-<img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" width="400"></img>
-<img src="https://user-images.githubusercontent.com/71831714/104890525-0aca9a00-59b3-11eb-8a4e-8e6c0214a972.png" width="400"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104890732-51b88f80-59b3-11eb-99dc-b06c39dcf4fa.png" height="300"></img>
+<img src="https://user-images.githubusercontent.com/71831714/104890525-0aca9a00-59b3-11eb-8a4e-8e6c0214a972.png" height="300"></img>
+<img src="https://user-images.githubusercontent.com/71831714/105712395-11ca4d00-5f5d-11eb-942d-7b3c4586f117.png"></img>
 ------  
 #### 2. 구매자들은 현재 구매하려는 물품의 시세와 근처 동네의 매물 개수 파악
   
