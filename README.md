@@ -9,7 +9,7 @@
 ### 1-2. 이름은 왜 FleaFully 인가요?
 중고 마켓이라는 Fleamarket과 온전함, 풍부함의 뜻을 가지고 있는 Full을 합쳐서 만든 이름입니다. 
 
-## 1-3. Built with 
+### 1-3. Built with 
 - 김성준
   - Selenium을 통한 중고나라 크롤링, MongoDB로 데이터베이스 관리, 슬랙 챗봇 구현, 카카오 api와 슬랙 webhook을 통한 알림톡 발송, 리드미 작성
 - 전예나 
