@@ -10,12 +10,9 @@
 중고 마켓이라는 Fleamarket과 온전함, 풍부함의 뜻을 가지고 있는 Full을 합쳐서 만든 이름입니다. 
 
 ### 1-3. Built with 
-- 김성준
-  - Selenium을 통한 중고나라 크롤링, MongoDB로 데이터베이스 관리, 슬랙 챗봇 구현, 카카오 api와 슬랙 webhook을 통한 알림톡 발송, 리드미 작성
-- 전예나 
-  - Flask를 통한 AWS 웹 서버 배포, css-js 템플릿을 통한 프론트엔드 구현, 번개장터 크롤링, DB - 웹 연동, 메일 발송 기능 구현, 리드미 작성 
-- 정하윤 
-  - Scrapy Framework를 통해 당근마켓 크롤링, Kakao local api 통해 거래주소에서 lat, lon값 추가, Rscript의 jitter함수를 통해 중복되는 좌표 변경, Node.js를 통해 mongodb에서 collection 데이터 import후 kakao map api통해 지도 구현
+- 김성준 : Selenium을 통한 중고나라 크롤링, MongoDB로 데이터베이스 관리, 슬랙 챗봇 구현, 카카오 api와 슬랙 webhook을 통한 알림톡 발송, 리드미 작성
+- 전예나 : Flask를 통한 AWS 웹 서버 배포, css-js 템플릿을 통한 프론트엔드 구현, 번개장터 크롤링, DB - 웹 연동, 메일 발송 기능 구현, 리드미 작성 
+- 정하윤 : Scrapy Framework를 통해 당근마켓 크롤링, Kakao local api 통해 거래주소에서 lat, lon값 추가, Rscript의 jitter함수를 통해 중복되는 좌표 변경, Node.js를 통해 mongodb에서 collection 데이터 import후 kakao map api통해 지도 구현
 
 ### 1-4. FleaFully를 통해 무엇을 할 수 있나요?
 
